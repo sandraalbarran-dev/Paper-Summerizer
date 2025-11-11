@@ -2,9 +2,9 @@
 
 **A Slack Bot for summarizing arXiv papers, powered by OpenAI LLMs.**
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/example.gif" width=100%>
-</p>
+</p> -->
 
 ## Features
 
